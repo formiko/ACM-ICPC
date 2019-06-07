@@ -6,3 +6,4 @@
 ## [ZOJ 3613 Wormhole Transport](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=3613)
 ## [BZOJ 4774: 修路](https://www.lydsy.com/JudgeOnline/problem.php?id=4774)
 ## [BZOJ 4006: \[JLOI2015\]管道连接](https://www.lydsy.com/JudgeOnline/problem.php?id=4006)
+## [CF Joining Capitals](https://codeforces.com/gym/101908/problem/J)
